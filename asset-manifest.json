@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FormSimpleProject-WEB/static/css/main.f043a162.css",
+    "main.js": "/FormSimpleProject-WEB/static/js/main.b544fc58.js",
+    "static/js/453.07b51e5c.chunk.js": "/FormSimpleProject-WEB/static/js/453.07b51e5c.chunk.js",
+    "index.html": "/FormSimpleProject-WEB/index.html",
+    "main.f043a162.css.map": "/FormSimpleProject-WEB/static/css/main.f043a162.css.map",
+    "main.b544fc58.js.map": "/FormSimpleProject-WEB/static/js/main.b544fc58.js.map",
+    "453.07b51e5c.chunk.js.map": "/FormSimpleProject-WEB/static/js/453.07b51e5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f043a162.css",
+    "static/js/main.b544fc58.js"
+  ]
+}
